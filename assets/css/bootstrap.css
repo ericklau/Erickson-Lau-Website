@@ -929,7 +929,7 @@ pre code {
 
 @media (min-width: 768px) {
   .container {
-    max-width: 750px;
+    max-width: 10%;
   }
   .col-sm-1,
   .col-sm-2,
