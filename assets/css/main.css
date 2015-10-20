@@ -156,7 +156,6 @@ a:after {
 	background: url(../img/header-bg.jpg) no-repeat center top;
 	opacity: 0.7;
 	height: 800px;
-	margin-top: 60px;
 	padding-top:140px;
 	text-align:center;
 	background-attachment: relative;
@@ -178,11 +177,15 @@ a:after {
 #headerwrap h1 {
 	font-size: 80px;
 	color: white;
+    padding-right: 300px;
+    margin-top: 75px;
+"
 }
 
 #headerwrap h3 {
 	font-size: 20px;
 	color: white;
+    padding-right: 300px;
 }
 
 /* Intnro Wrap */
